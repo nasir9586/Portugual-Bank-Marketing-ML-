@@ -1,4 +1,4 @@
-# Portugal Bank Marketing - Machine Learning
+# Portugal Bank Marketing using Data Science & Machine Learning
 
 ## Project Overview
 This project aims to optimize telemarketing campaigns for term deposit subscriptions at a Portuguese bank. By leveraging a rich dataset of customer demographics, financial details, and campaign interactions, the project applies machine learning algorithms to predict customer responses and enhance marketing efficiency.
